@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("HOLA.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: black;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 100px;
+}
+
+#encabezado {
+    background-color: #fff0db;
+    color: rgb(161, 24, 24);
+    padding: 20px;
+    text-align: center;
+}
+
+.subtitulo {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.sobre-mi {
+    padding: 20px;
+    background-color: #ffeeee;
+}
+
+#experiencia {
+    padding: 20px;
+    background-color: #e0f7fa;
+}
+
+.imagen {
+    text-align: center;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
